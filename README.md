@@ -383,9 +383,9 @@ p.note { display: none; }
     
 
 <br><br>
-<h2><span class="yellow">今日のBGMは Michael Bolton, Elton John, Phil Collins, Rod Stewart, Bee Gees 📀 Soft Rock Love Songs 70s 80s 90s</span></h2>
+<h2><span class="yellow">今日のBGMは Rod Stewart, Elton John, Phil Collins, Mariah Carey, Chicago 🎻🎻 Soft Rock Love Songs 70s 80s 90s</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jWJbS-wAKT0?si=x-QWDzxgxA2_8rMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/az0nhr6KMKg?si=u72pGbfDxsckmIue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 
