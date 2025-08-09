@@ -152,7 +152,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/07、生垣のお花たちから、美術学校学生さんの作品、最後は雷雨後のお花たちまで!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/07-08、生垣のお花たちから、美術学校学生さんの作品、最後は雷雨後のお花たちまで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
