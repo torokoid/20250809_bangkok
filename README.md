@@ -202,7 +202,7 @@ p.note { display: none; }
 <h2><span class="yellow">美術学生さんたちの作品展、タイではこの手のイベントは撮影可能でした</span></h2>
 <a href="20250809_024.JPG" target="_blank"><img src="20250809_024.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">作品には仏教色が出てました</span></h2>
+<h2><span class="yellow">作品には仏教色が出ているものも</span></h2>
 <a href="20250809_025.JPG" target="_blank"><img src="20250809_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250809_026.JPG" target="_blank"><img src="20250809_026.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250809_027.JPG" target="_blank"><img src="20250809_027.JPG" alt="サンプル画像" class="responsive-media"></a>
