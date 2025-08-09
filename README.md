@@ -177,7 +177,7 @@ p.note { display: none; }
 <a href="20250809_010.JPG" target="_blank"><img src="20250809_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250809_011.JPG" target="_blank"><img src="20250809_011.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">熱帯の陽射しが戻って暑くなりました</span></h2>
+<h2><span class="yellow">朝は曇ってましたが、昼過ぎには熱帯の陽射しが戻って暑くなりました</span></h2>
 <a href="20250809_012.JPG" target="_blank"><img src="20250809_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250809_013.JPG" target="_blank"><img src="20250809_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250809_014.JPG" target="_blank"><img src="20250809_014.JPG" alt="サンプル画像" class="responsive-media"></a>
