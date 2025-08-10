@@ -448,7 +448,7 @@ p.note { display: none; }
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<p>あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />番目の訪問者です</p></a>   
+<p>あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />番目の訪問者です<br>数値は8月1日以降に立ち上げたバンコクシリーズHPの累計です</p></a>   
 
 
 
